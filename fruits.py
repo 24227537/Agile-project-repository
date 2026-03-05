@@ -1,2 +1,2 @@
 def fruits():
-    return []
+    return ["lemon","tomato"]

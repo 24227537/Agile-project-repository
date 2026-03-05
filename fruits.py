@@ -1,2 +1,3 @@
-def fruits():
-    return ["lemon","tomato"]
+def favourite_fruits():
+	return ["mandarin","dragonfruit"]
+
